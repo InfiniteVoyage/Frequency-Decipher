@@ -23,7 +23,7 @@ To undo a substitution type:
 ```
 undo
 ```
-## Exit
+## Exiting
 To exit the program type:
 ```
 exit
