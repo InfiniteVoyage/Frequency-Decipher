@@ -1,5 +1,5 @@
 # Frequency-Decipher
-Python decipherer meant for substitution ciphers
+Python based decipherer meant for substitution ciphers
 
 ## Substituting text
 
